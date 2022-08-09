@@ -20,7 +20,7 @@ You can change MyVector interface completely, but there are several rules:
 #include <stdexcept>
 
 
-template <typename T&>
+template <typename T>
 class MyVector : public std::vector<T>
 {
 public:
