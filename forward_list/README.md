@@ -1,4 +1,4 @@
-# Hello World server
+# Forward List
 ## Task
 Write your own implementation of forward list. Class must contain:
 - Basic operations with forward list: initialization, insertion, iteration, getting size, removing elements. <br/>
